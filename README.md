@@ -1,8 +1,18 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## Hotomo
 
-# Getting Started
+```bash
+ This Is React Native New Architecture Project
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+
+
+
+Android : Run the application in the unique port to Manage to run multiple project on a same machine "(Change the --deviceId)"
+
+npx react-native run-android --port 8088 --deviceId UKRS598HMRUSZPJB
+
+
+```
 
 ## Step 1: Start the Metro Server
 
